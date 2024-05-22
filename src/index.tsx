@@ -3,7 +3,7 @@ import "@cometchat/uikit-elements";
 
 import { App } from "./components/App";
 import { AppConstants } from "./AppConstants";
-import {CometChat} from '@cometchat/chat-sdk-javascript'
+import {CometChat} from '@cometchat/chat-sdk-javascript';
 import { CometChatUIKit } from "@cometchat/chat-uikit-react";
 import ReactDOM from "react-dom/client";
 import { UIKitSettingsBuilder } from '@cometchat/uikit-shared';
